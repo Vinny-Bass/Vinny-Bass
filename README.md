@@ -25,6 +25,4 @@ I am Vinicius Vieira, currently working as a Software Engineer at the [Infinity 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Vinny-Bass&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinny-Bass&hide=TeX&layout=compact)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vinny-Bass.Vinny-Bass)
